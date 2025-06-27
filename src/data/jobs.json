@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "title": "Senior UX Designer",
+    "logo": "https://plus.unsplash.com/premium_photo-1681284938413-ea2c090c6d14",
+    "company": "Dribbble",
+    "location": "San Francisco, USA",
+    "salary": "$3k-$5k",
+    "type": "Full Time",
+    "category": "Design",
+    "experience": "Senior",
+    "description": "UX designers measure and optimize applications to improve ease of use (usability), and create the best user experience by exploring many different approaches to solve end-users' problems.",
+    "date": "12 Jan 2021",
+    "remote": true
+  },
+  {
+    "id": 2,
+    "title": "Product UX Designer",
+    "logo": "https://images.unsplash.com/photo-1517816428104-797678c7cf0c",
+    "company": "Twitter",
+    "location": "San Francisco, USA",
+    "salary": "$3.5k",
+    "type": "Full Time",
+    "category": "Design",
+    "experience": "Senior",
+    "description": "We are looking for a UX Designer to design software and platforms that meet people's needs. You will combine interfaces and workflows to enhance user experience.",
+    "date": "11 Jan 2021",
+    "remote": true
+  },
+  {
+    "id": 3,
+    "title": "Language teachers",
+    "logo": "https://plus.unsplash.com/premium_photo-1680859126164-ac4fd8f56625",
+    "company": "AE Virtual Class S.A",
+    "location": "Americas, USA",
+    "salary": "$10.5k",
+    "type": "Full Time",
+    "category": "Others",
+    "experience": "intermediate",
+    "description": "AE Virtual Class, member of Academia Europea Group, leader in language teaching, with 56 years of experience and the largest teaching staff in the Americas! We are looking for language enthusiasts who want to be part of our great family! Experience is NOT a requirement! We teach you how to teach!",
+    "date": "25 June 2025",
+    "remote": true
+  },
+  {
+    "id": 4,
+    "title": "Community Moderator",
+    "logo": "https://plus.unsplash.com/premium_photo-1681284938413-ea2c090c6d14",
+    "company": "Twitter",
+    "location": "Nigeria",
+    "salary": "$5k",
+    "type": "Internship",
+    "category": "Web3",
+    "experience": "Senior",
+    "description": "We are looking for a UX Designer to design software and platforms that meet people's needs. You will combine interfaces and workflows to enhance user experience.",
+    "date": "20 Jan 2024",
+    "remote": true
+  }
+]
